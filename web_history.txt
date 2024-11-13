@@ -1,0 +1,9 @@
+
+Web 1.0: The Early Static Era
+Web 1.0 represents the first phase of the internet, characterized by static web pages created using HTML. These pages were mostly read-only, with minimal user interaction. The main tools included basic HTML for structure and CSS for limited styling. Websites functioned as digital brochures, providing information without engaging the user.
+
+Web 2.0: The Rise of Interactive Content
+Web 2.0 marked a shift to interactive and dynamic web content, emphasizing user participation. This era introduced templates, social media platforms, blogs, and wikis, where users could contribute content. Key technologies included JavaScript, AJAX for asynchronous data loading, and backend databases. Platforms like Facebook and YouTube are quintessential examples of Web 2.0, focusing on user engagement and community building.
+
+Web 3.0: The Age of Decentralization and Personalization
+Web 3.0 is defined by decentralization, semantic understanding, and personalization. This phase incorporates blockchain for secure, distributed data storage and AI for delivering tailored content. Technologies like single-page applications (SPAs) and frameworks such as React and Vue have streamlined the development of interactive and responsive web applications. Web 3.0 aims to create a more user-centric and secure web experience.
